@@ -50,7 +50,7 @@ A pasta raiz do projeto de Visão Computacional no Google Drive.
 ## 🔗 Notebook do Projeto
 Acesse o notebook completo no Google Colab, que detalha todas as etapas do projeto, códigos, e a análise de resultados:
 
-* **[Clique aqui para acessar o Notebook do Projeto no Google Colab]([https://colab.research.google.com/drive/1ej8q-2pIt8EDoVe-M20vaia2Z4yPyrq4?usp=sharing])**
+* **[Clique aqui para acessar o Notebook do Projeto no Google Colab](https://colab.research.google.com/drive/1ej8q-2pIt8EDoVe-M20vaia2Z4yPyrq4?usp=sharing)**
 <br><br>
 ## 🎥 Vídeo de Demonstração
 Assista ao vídeo demonstrativo que apresenta o funcionamento do sistema, o notebook em execução e os resultados visuais da detecção:
