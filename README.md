@@ -55,7 +55,7 @@ Acesse o notebook completo no Google Colab, que detalha todas as etapas do proje
 ## 🎥 Vídeo de Demonstração
 Assista ao vídeo demonstrativo que apresenta o funcionamento do sistema, o notebook em execução e os resultados visuais da detecção:
 
-* **[Clique aqui para assistir ao vídeo no YouTube]([LINK DO SEU VÍDEO NO YOUTUBE])**
+* **[Clique aqui para assistir ao vídeo no YouTube](https://youtu.be/9tWfZ0DzB34)**    
 <br><br>
 ## 📋 Conclusões
 Este projeto valida o uso da Visão Computacional com YOLOv5 como uma solução eficaz para a segurança patrimonial da FarmTech Solutions. A capacidade de identificar automaticamente objetos de interesse abre portas para sistemas de monitoramento proativos e inteligentes, capazes de aumentar a segurança e a eficiência operacional em ambientes agrícolas. O relatório detalhado no notebook discute as métricas obtidas, os desafios encontrados e os próximos passos para aprimorar a solução.
