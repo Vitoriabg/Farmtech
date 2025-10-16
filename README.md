@@ -39,6 +39,10 @@ A pasta raiz do projeto de Visão Computacional no Google Drive.
 * <b>`datasets/images/test/`</b>: Contém as 8 imagens de teste (4 de pessoa, 4 de trator).
 * <b>`datasets/labels/train/`</b>: Armazena os 64 arquivos `.txt` (rótulos no formato YOLO) correspondentes às imagens de treino.
 <br><br>
+
+### <br> NicolasAraujo_rm566307_pbl_fase6.ipynb<br>
+Arquivo do notebook da entrega 2, conectado ao Google Colab.
+
 ## 🚀 Metodologia
 1.  **Coleta e Organização de Dados**: Obtenção de 40 imagens de 'pessoa' e 40 de 'trator', e sua divisão em conjuntos de treino, validação e teste.
 2.  **Rotulação**: Anotação manual de todos os objetos nas imagens de treino utilizando a ferramenta Make Sense AI, gerando arquivos de rótulo no formato YOLO.
